@@ -7,70 +7,58 @@ This is a project where I created the functionality of the popular Ruby Enumerab
 
 
 ## Built With
+- Ruby
+- Terminal
+- IRB
+- Rubocop (linters)
 
-- Major languages
-- Frameworks
-- Technologies used
 
 ## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Live Demo Link (Project will have none)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
+-To get a local copy up and running follow these simple example steps.
 
 ### Install
+-In your terminal, navigate to your current directory and run this code
 
-### Usage
+https://github.com/steveWDamesJr/our_enumerable.git
 
-### Run tests
+-Locate the directory in your file explorer
 
-### Deployment
+-cd our_enumerable
 
+-Install Rubocop using...
+  bundle install
 
+### Run Linters:
+-To run rubocop we use...
+   rubocop .
+
+-To autocorrect offenses with rubocop we use:
+   rubocop --auto-correct-all or rubocop -A
+
+-Have fun using a subset of the functionality of Enumerable within a module inside a class!
 
 ## Authors
+👤 **Author**
 
-👤 **Author1**
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
-## Show your support
-
+Show your support
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+Hat tip to all documentations used
+Inspiration
+etc
+📝 License
+This project is MIT licensed.
