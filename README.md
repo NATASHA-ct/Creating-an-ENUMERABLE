@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Creating An Enumerable
 
-> Description the project.
+> About
+This is a project where I created the functionality of the popular Ruby Enumerable using a module inside a class object.The Enumerable implements the following methods: #all? , #any? , #filter.
 
 
 ## Built With
