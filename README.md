@@ -3,8 +3,11 @@
 # Creating An Enumerable
 
 > About
-This is a project where I created the functionality of the popular Ruby Enumerable using a module inside a class object.The Enumerable implements the following methods: #all? , #any? , #filter.
-
+ This is an application that works as a tool to record what books are in the library and who borrows them. The app will allow you to:
+    -Add new students or teachers.
+    -Add new books.
+    -Save records of who borrowed a given book and when.
+  The data is later preseved in a database.This application also has a well organised UI layer  which will be a console app interacting with a user .
 
 ## Built With
 - Ruby
@@ -12,17 +15,13 @@ This is a project where I created the functionality of the popular Ruby Enumerab
 - IRB
 - Rubocop (linters)
 
-
-## Live Demo (if available)
-- Live Demo Link (Project will have none)
-
 ## Getting Started
 -To get a local copy up and running follow these simple example steps.
 
 ### Install
 -In your terminal, navigate to your current directory and run this code
 
-https://github.com/steveWDamesJr/our_enumerable.git
+
 
 -Locate the directory in your file explorer
 
