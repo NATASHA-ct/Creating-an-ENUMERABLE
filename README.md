@@ -3,11 +3,7 @@
 # Creating An Enumerable
 
 > About
- This is an application that works as a tool to record what books are in the library and who borrows them. The app will allow you to:
-    -Add new students or teachers.
-    -Add new books.
-    -Save records of who borrowed a given book and when.
-  The data is later preseved in a database.This application also has a well organised UI layer  which will be a console app interacting with a user .
+ This is a project where I created the functionality of the popular Ruby Enumerable using a module inside a class object.The Enumerable implements the following    methods: #all? , #any? , #filter.
 
 ## Built With
 - Ruby
