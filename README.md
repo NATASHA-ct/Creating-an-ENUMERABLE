@@ -14,12 +14,13 @@
 ## Getting Started
 -To get a local copy up and running follow these simple example steps.
 
+
 ### Install
 -In your terminal, navigate to your current directory and run this code
 
-
-
 -Locate the directory in your file explorer
+
+https://github.com/NATASHA-ct/Creating-an-ENUMERABLE.git
 
 -cd our_enumerable
 
